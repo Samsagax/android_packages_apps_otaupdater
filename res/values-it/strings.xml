@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Aggiornamenti di sistema</string>
-    <string name="builds_list_uri" translatable="false">https://raw.githubusercontent.com/Trafalgar-Square/android_OTAupdates/cm-12.1/filelist.xml</string>
     <string name="fetch_failed">Impossibile contattare il server. Controllare la propria connessione a internet.
     </string>
     <string name="updates">Aggiornamenti</string>
